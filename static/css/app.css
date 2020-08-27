@@ -10302,6 +10302,8 @@ small {
   border-right: 1px solid #e6e6e6;
   padding: 15px;
   padding-right: 0;
+  overflow-x:hidden;
+  overflow-y: auto;
 }
 
 .navigation.sticky {
